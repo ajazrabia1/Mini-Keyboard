@@ -1,4 +1,5 @@
-Marcropad
+Marcropad. 
+4 key macropad from scratch using kicad and fusion. The hackpad project was coded in python . Keys are for easy copy and pasting as well as an undo key and a key to switch tabs!
 
 
 A screenshot of the macropad design
